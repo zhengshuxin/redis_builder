@@ -1,4 +1,5 @@
-A redis tool for redis cluster, which can help to build a new redis cluster,
+A redis tool(https://github.com/acl-dev/acl/tree/master/app/redis_tools/redis_builder)
+for redis cluster, which can help to build a new redis cluster,
 add one new redis node to the existing one or cluster, show the information
 of the redis cluster about nodes and slots. Below are the using method of
 the tool:
